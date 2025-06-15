@@ -1,13 +1,10 @@
-# 👋 Bonjour, je suis Augustin de Préville, fondateur de Fidesio !
+# 👋 Bonjour, je suis Augustin de Préville
 
-Bienvenue sur notre page !
+Bienvenue !
 
 ## Connectez-vous avec moi
-
-- 🌐 [Site Web](https://www.fidesio.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/augustindepreville/)
 - 🐦 [Twitter](https://www.twitter.com/gustoune)
-- 📷 [Instagram](https://www.instagram.com/lagenceweb)
 
 ## À propos de moi
 
@@ -18,7 +15,7 @@ Bienvenue sur notre page !
 
 ## Contactez-moi
 
-- 📫 N'hésitez pas à me contacter pour discuter de vos projets ou pour toute demande d'information : [Contact](mailto:contact@fidesio.com).
+- 📫 N'hésitez pas à me contacter pour discuter de vos projets ou pour toute demande d'information
 
 ## Ma Mission
 
