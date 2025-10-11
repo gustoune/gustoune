@@ -8,17 +8,13 @@ Bienvenue !
 
 ## À propos de moi
 
-- 👨‍💻 Je travaille actuellement en tant que fondateur et directeur de Fidesio, une agence digitale innovante basée à Paris.
-- 🔧 Je me spécialise dans le développement de solutions open source, en utilisant des technologies telles que PHP (Symfony, Drupal, WordPress), ReactJS, intégration HTML, CSS et Vue.js.
-- 🌱 Je suis passionné par l'exploration de nouvelles technologies et la mise en œuvre de méthodes avant-gardistes dans le domaine digital.
-- 🚀 Je suis dédié à offrir des services complets, allant de la création de sites web et d'applications mobiles à la mise en place de solutions e-commerce, intranets et extranets.
+- 👨‍💻 Je travaille à Paris
+- 🔧 Je me spécialise dans le développement de solutions open source, en utilisant des technologies. 
+- 🌱 Je suis passionné par l'exploration de nouvelles technologies et la mise en œuvre de méthodes avant-gardistes dans le domaine digital et de l'IA.
+- 🚀 Je suis dédié à offrir des services complets, a mettre en place de la digitalisation, de l'ia, et de gérer des solutions complexes alliant data et IA.
 
 ## Contactez-moi
 
 - 📫 N'hésitez pas à me contacter pour discuter de vos projets ou pour toute demande d'information
 
-## Ma Mission
-
-- 💡 Mon objectif est de transformer le paysage digital en offrant des solutions innovantes et personnalisées à nos clients.
-- 🤝 Je crois en une collaboration étroite avec nos clients pour comprendre et répondre précisément à leurs besoins.
 
