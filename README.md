@@ -62,20 +62,63 @@
 - **Prédiction opérationnelle** : jobs ML planifiés, features saisonnières, explications locales, alerting.
 
  
-  <p>
-    <img src="https://img.shields.io/badge/PHP-777?logo=php&logoColor=fff" alt="PHP">
-    <img src="https://img.shields.io/badge/JavaScript-777?logo=javascript&logoColor=fff" alt="JS">
-    <img src="https://img.shields.io/badge/Python-777?logo=python&logoColor=fff" alt="Python">
-    <img src="https://img.shields.io/badge/Symfony-777?logo=symfony&logoColor=fff" alt="Symfony">
-    <img src="https://img.shields.io/badge/Node.js-777?logo=node.js&logoColor=fff" alt="Node">
-    <img src="https://img.shields.io/badge/Elasticsearch-777?logo=elasticsearch&logoColor=fff" alt="Elastic">
-    <img src="https://img.shields.io/badge/Redis-777?logo=redis&logoColor=fff" alt="Redis">
-    <img src="https://img.shields.io/badge/Docker-777?logo=docker&logoColor=fff" alt="Docker">
-    <img src="https://img.shields.io/badge/Kubernetes-777?logo=kubernetes&logoColor=fff" alt="K8s">
-    <img src="https://img.shields.io/badge/AWS-777?logo=amazon-aws&logoColor=fff" alt="AWS">
-    <img src="https://img.shields.io/badge/GitLab_CI-777?logo=gitlab&logoColor=fff" alt="GitLab CI">
-    <img src="https://img.shields.io/badge/Selenium-777?logo=selenium&logoColor=fff" alt="Selenium">
-  </p>
+<p>
+  <img src="https://img.shields.io/badge/PHP-777?logo=php&logoColor=fff" alt="PHP">
+  <img src="https://img.shields.io/badge/JavaScript-777?logo=javascript&logoColor=fff" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Python-777?logo=python&logoColor=fff" alt="Python">
+  <img src="https://img.shields.io/badge/Symfony-777?logo=symfony&logoColor=fff" alt="Symfony">
+  <img src="https://img.shields.io/badge/Node.js-777?logo=node.js&logoColor=fff" alt="Node.js">
+  <img src="https://img.shields.io/badge/Angular-777?logo=angular&logoColor=fff" alt="Angular">
+  <img src="https://img.shields.io/badge/React-777?logo=react&logoColor=fff" alt="React">
+
+  <img src="https://img.shields.io/badge/Drupal-777?logo=drupal&logoColor=fff" alt="Drupal">
+  <img src="https://img.shields.io/badge/WordPress-777?logo=wordpress&logoColor=fff" alt="WordPress">
+  <img src="https://img.shields.io/badge/Magento-777?logo=magento&logoColor=fff" alt="Magento">
+  <img src="https://img.shields.io/badge/Headless_CMS-777" alt="Headless CMS">
+
+  <img src="https://img.shields.io/badge/Elasticsearch-777?logo=elasticsearch&logoColor=fff" alt="Elasticsearch">
+  <img src="https://img.shields.io/badge/Apache_Solr-777?logo=apachesolr&logoColor=fff" alt="Solr">
+
+  <img src="https://img.shields.io/badge/MySQL-777?logo=mysql&logoColor=fff" alt="MySQL">
+  <img src="https://img.shields.io/badge/PostgreSQL-777?logo=postgresql&logoColor=fff" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Oracle_DB-777?logo=oracle&logoColor=fff" alt="Oracle">
+  <img src="https://img.shields.io/badge/SQL_Server-777?logo=microsoft%20sql%20server&logoColor=fff" alt="SQL Server">
+
+  <img src="https://img.shields.io/badge/Varnish-777" alt="Varnish">
+  <img src="https://img.shields.io/badge/Profiling_JS%2FPHP-777" alt="Profiling">
+  <img src="https://img.shields.io/badge/Budgets_de_perf-777" alt="Performance Budgets">
+
+  <img src="https://img.shields.io/badge/Docker-777?logo=docker&logoColor=fff" alt="Docker">
+  <img src="https://img.shields.io/badge/Kubernetes-777?logo=kubernetes&logoColor=fff" alt="Kubernetes">
+  <img src="https://img.shields.io/badge/AWS-777?logo=amazon-aws&logoColor=fff" alt="AWS">
+  <img src="https://img.shields.io/badge/GitLab_CI-777?logo=gitlab&logoColor=fff" alt="GitLab CI">
+  <img src="https://img.shields.io/badge/Helm-777?logo=helm&logoColor=fff" alt="Helm">
+
+  <img src="https://img.shields.io/badge/Selenium-777?logo=selenium&logoColor=fff" alt="Selenium">
+  <img src="https://img.shields.io/badge/JMeter-777" alt="JMeter">
+  <img src="https://img.shields.io/badge/Tests_unitaires%2Ffonctionnels-777" alt="Tests">
+
+  <img src="https://img.shields.io/badge/Scrapy-777" alt="Scrapy">
+  <img src="https://img.shields.io/badge/pandas-777?logo=pandas&logoColor=fff" alt="pandas">
+  <img src="https://img.shields.io/badge/NumPy-777?logo=numpy&logoColor=fff" alt="NumPy">
+  <img src="https://img.shields.io/badge/Looker_Studio-777?logo=google&logoColor=fff" alt="Looker Studio">
+  <img src="https://img.shields.io/badge/Tableau-777?logo=tableau&logoColor=fff" alt="Tableau">
+
+  <img src="https://img.shields.io/badge/Sentry-777?logo=sentry&logoColor=fff" alt="Sentry">
+  <img src="https://img.shields.io/badge/Prometheus-777?logo=prometheus&logoColor=fff" alt="Prometheus">
+
+  <img src="https://img.shields.io/badge/IBM_Rational_AppScan-777" alt="IBM Rational AppScan">
+  <img src="https://img.shields.io/badge/Qualys-777" alt="Qualys">
+
+  <img src="https://img.shields.io/badge/IA%2FLLM-777" alt="IA/LLM">
+  <img src="https://img.shields.io/badge/RNN%2FLSTM%2FGRU-777" alt="RNN/LSTM/GRU">
+  <img src="https://img.shields.io/badge/RAG-777" alt="RAG">
+  <img src="https://img.shields.io/badge/Agents-777" alt="Agents">
+  <img src="https://img.shields.io/badge/MCP-777" alt="MCP">
+  <img src="https://img.shields.io/badge/Observabilit%C3%A9-777" alt="Observabilité">
+  <img src="https://img.shields.io/badge/CI%2FCD-777" alt="CI/CD">
+</p>
+
 
 
 
